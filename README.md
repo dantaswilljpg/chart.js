@@ -1,1 +1,3 @@
-# chart.js
+# Chart-JS
+
+
